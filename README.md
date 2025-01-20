@@ -1,10 +1,10 @@
-Installation
+<b>Installation</b><br>
 To get started, install the required dependencies by running:
 ```
 npm i
 ```
 
-Starting the API
+<b>Starting the API</b><br>
 Once installed, launch the API with the following command:
 ```
 npm start
